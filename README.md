@@ -4,8 +4,6 @@
 
 代码基于swift5.0
 
-代码地址:
-
 预览
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7e6881c2d34f4cc783b274a6847f9b76.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Yqq5Yqb5L-u56aP5oql,size_13,color_FFFFFF,t_70,g_se,x_16)
 封装的简单分页控制器，简单易用
